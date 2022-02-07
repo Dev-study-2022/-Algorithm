@@ -1,2 +1,42 @@
-# -Algorithm
-알고리즘 스터디
+<div align="center">
+  <h1>Algorithm</h1>
+  <h3>알고리즘 스터디</h3>
+</div>
+
+## 🔨 Language
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python&logoColor=white)
+
+## ✅ How To
+> 📅 2022.02.07 `예정`
+1. 매주 3-4문제
+2. 매주 토요일 `11:00` 코드 리뷰
+3. **각 주차별 Directory Name** : 'Week{num}'
+    - num : 2자리 숫자로
+    - ex) Week01
+4. **Directory Name** : `문제번호`
+    - 백준 : 2573
+    - 프로그래머스 : 문제명
+5. **File Name** : `문제번호_이름`  
+    - 백준 : 2573_jh.java  
+    - 프로그래머스 : 문제명_jh.java
+6. **Commit Message** : `[Solve] ✍ 사이트명_문제번호.문제명`  
+  [Solve] ✍ baekjoon_2573.빙산  
+  [Solve] ✍ programmers_level2.기능개발
+  
+<br />
+
+## 😎 Contributer
+<a href = "https://github.com/maywngml">
+  <img src="https://avatars.githubusercontent.com/u/50205928?s=400&v=4" alt="ju-hee" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/pur3um">
+  <img src="https://avatars.githubusercontent.com/u/99007025?v=4" alt="fureum" width="80" style="max-width:100%" />
+</a>
+
+<br />
+
+## 👩‍💻 To Slove
+|Week|1|2|3|4|
+|:---:|:---:|:---:|:---:|:---:|
+|Week 1|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| |
