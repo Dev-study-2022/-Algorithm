@@ -40,3 +40,4 @@
 |Week|1|2|3|4|
 |:---:|:---:|:---:|:---:|:---:|
 |Week 1|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| |
+|Week 2|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)| | |
