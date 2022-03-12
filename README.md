@@ -43,5 +43,6 @@
 |Week 2|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)| |
 |Week 3|[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)| |
 |Week 4|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) |
-|Week 5|[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|[표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+|Week 5|[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|[표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) |
+|Week 6|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|
 
