@@ -36,7 +36,7 @@
 
 <br />
 
-## 👩‍💻 To Slove
+## 👩‍💻 To Solve
 |Week|1|2|3|4|
 |:---:|:---:|:---:|:---:|:---:|
 |Week 1|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)| |
