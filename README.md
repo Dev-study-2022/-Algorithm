@@ -45,4 +45,4 @@
 |Week 4|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) |
 |Week 5|[n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|[표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) |
 |Week 6|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257?language=javascript)|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) |
-|Week 7|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[리틀 프렌즈](https://programmers.co.kr/learn/courses/30/lessons/1836)
+|Week 7|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
