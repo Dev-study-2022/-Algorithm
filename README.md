@@ -47,4 +47,4 @@
 |Week 6|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257?language=javascript)|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) |
 |Week 7|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
 |Week 8|[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|[금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)|
-|Week 9|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|[조이스틱] (https://programmers.co.kr/learn/courses/30/lessons/42860)|[점프와 순간 이동] (https://programmers.co.kr/learn/courses/30/lessons/12980)
+|Week 9|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
