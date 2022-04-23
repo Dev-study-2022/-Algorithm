@@ -50,4 +50,4 @@
 |Week 9|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|
 |Week 10|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[쿼드압축 후 개수세기](https://programmers.co.kr/learn/courses/30/lessons/68936)|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|
 |Week 11|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||
-|Week 12|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)||
+|Week 12|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|
