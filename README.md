@@ -52,4 +52,4 @@
 |Week 11|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||
 |Week 12|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|
 |Week 13|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|
-|Week 13|[매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)|||
+|Week 13|[매칭 점수](https://programmers.co.kr/learn/courses/30/lessons/42893)|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)|
